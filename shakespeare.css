@@ -12,4 +12,8 @@ table { border: dashed 3px rgb(64, 187, 60);
             rgba(0, 0, 0, 0.3) 10px,
             rgba(0, 0, 0, 0.3) 20px
           );padding-left: 10mm;padding-right: 3rem;padding-top: 10pt;padding-bottom:10pt;}
+
+          .ORLANDO:hover{color:sandybrown;text-shadow:springgreen;border: dashed 3px rgb(64, 187, 60);}
+          .ADAM:hover{color:rgb(165, 96, 244);text-shadow:rgb(255, 145, 0);border: solid 3px rgb(240, 63, 63);}
+          .OLIVER:hover{color:rgb(34, 145, 71);text-shadow:rgba(47, 74, 92, 0.432);border: dashed 3px rgb(62, 197, 179);}
           
