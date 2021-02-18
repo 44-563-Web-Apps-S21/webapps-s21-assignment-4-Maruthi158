@@ -16,4 +16,20 @@ table { border: dashed 3px rgb(64, 187, 60);
           .ORLANDO:hover{color:sandybrown;text-shadow:springgreen;border: dashed 3px rgb(64, 187, 60);}
           .ADAM:hover{color:rgb(165, 96, 244);text-shadow:rgb(255, 145, 0);border: solid 3px rgb(240, 63, 63);}
           .OLIVER:hover{color:rgb(34, 145, 71);text-shadow:rgba(47, 74, 92, 0.432);border: dashed 3px rgb(62, 197, 179);}
-          
+          ul{
+            list-style-type: none;
+            margin:0;
+            padding:0;
+            overflow: hidden;
+          }
+ 
+          li{
+            float:left;
+            border:6px solid springgreen;
+          }
+ 
+          li a{
+            display: block;
+            padding: 10px;
+            background-color: violet;
+          }
